@@ -88,11 +88,16 @@ This software uses Microsoft's VS2022 integrated development environment NET Fra
 
 ## [🖼️] 软件界面 Software UI
 
-![Proxy](https://github.com/user-attachments/assets/ba1bfe80-3c1c-4839-aa68-24aa5ddb4738)
+<img width="1200" height="750" alt="Home" src="https://github.com/user-attachments/assets/fbdaba92-edf8-486c-905a-a92ebb523ea2" />
 
-![Process](https://github.com/user-attachments/assets/6bfe3e16-cfc0-42c3-987c-26724363adb2)
+<img width="1450" height="802" alt="PacketList" src="https://github.com/user-attachments/assets/59f26b9d-e6df-4ccd-b3a4-9807d7db5ba8" />
+
+<img width="1450" height="802" alt="Statistical" src="https://github.com/user-attachments/assets/9e5f5330-ebe0-4b3f-92eb-c13ec6329a78" />
+
+<img width="1450" height="802" alt="Robot" src="https://github.com/user-attachments/assets/b7eb16b7-fee1-4381-8b7f-0ab6e49287a4" />
 
 ![111](https://github.com/user-attachments/assets/e33412c1-3a9f-41f8-b23e-aada6a1bb104)
+
 ![222](https://github.com/user-attachments/assets/6c9f6fa8-94a9-4aea-8119-2ebe152ff7c2)
 
 ## [👏] 特别说明 Special Note
